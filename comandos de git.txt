@@ -2,6 +2,9 @@ PARA INICIAR UN REPOSITORIO
 	1_ git status
 	2_ git add .
 	3_ git commit -m ""
+
+PASOS PARA SUBIR A LA WEB
+	1_ git push origin master
 primer caso
 cuando trabajo de forma local
 git init
